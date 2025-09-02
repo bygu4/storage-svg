@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_Слой_1"
+   data-name="Слой 1"
+   viewBox="0 0 408.94 304.65"
+   version="1.1"
+   sodipodi:docname="rebuild_3.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="2.0531137"
+     inkscape:cx="194.82603"
+     inkscape:cy="150.99017"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g28" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #eee;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-5 {
+        font-size: 21px;
+      }
+
+      .cls-5, .cls-6 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-3 {
+        fill: #fffb7b;
+      }
+
+      .cls-6 {
+        font-size: 30px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g
+     id="g15"
+     transform="translate(-0.0509782,-10.000001)">
+    <g
+       id="g14">
+      <g
+         id="g3"
+         style="fill:#90d8d0;fill-opacity:1">
+        <path
+           class="cls-3"
+           d="m 5.5,117.15 v 0.5 c 0,-0.17 0.02,-0.33 0.05,-0.5 z"
+           id="path1"
+           style="fill:#90d8d0;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 55.5,130.15 c -27.61,0 -50,-5.6 -50,-12.5 v 39.5 h 0.05 c 1.05,6.67 23.01,12 49.95,12 26.94,0 48.9,-5.33 49.95,-12 h 0.05 v -39.5 c 0,6.9 -22.39,12.5 -50,12.5 z"
+           id="path2"
+           style="fill:#90d8d0;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 105.45,117.15 c 0.03,0.17 0.05,0.33 0.05,0.5 v -0.5 z"
+           id="path3"
+           style="fill:#90d8d0;fill-opacity:1" />
+      </g>
+      <g
+         id="g4"
+         style="fill:#90afd8;fill-opacity:1">
+        <path
+           class="cls-3"
+           d="m 5.5,78.15 v 40 h 0.05 c 1.05,6.67 23.01,12 49.95,12 26.94,0 48.9,-5.33 49.95,-12 h 0.05 v -40 z"
+           id="path4"
+           style="fill:#90afd8;fill-opacity:1" />
+        <ellipse
+           class="cls-3"
+           cx="55.5"
+           cy="78.650002"
+           rx="50"
+           ry="12.5"
+           id="ellipse4"
+           style="fill:#90afd8;fill-opacity:1" />
+      </g>
+      <g
+         id="g7"
+         style="fill:#90d8d0;fill-opacity:1">
+        <path
+           class="cls-3"
+           d="m 5.5,156.15 v 0.5 c 0,-0.17 0.02,-0.33 0.05,-0.5 z"
+           id="path5"
+           style="fill:#90d8d0;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 55.5,169.15 c -27.61,0 -50,-5.6 -50,-12.5 v 39.5 h 0.05 c 1.05,6.67 23.01,12 49.95,12 26.94,0 48.9,-5.33 49.95,-12 h 0.05 v -39.5 c 0,6.9 -22.39,12.5 -50,12.5 z"
+           id="path6"
+           style="fill:#90d8d0;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 105.45,156.15 c 0.03,0.17 0.05,0.33 0.05,0.5 v -0.5 z"
+           id="path7"
+           style="fill:#90d8d0;fill-opacity:1" />
+      </g>
+      <g
+         id="g10"
+         style="fill:#a8eaf2;fill-opacity:1">
+        <path
+           class="cls-3"
+           d="m 5.5,195.15 v 0.5 c 0,-0.17 0.02,-0.33 0.05,-0.5 z"
+           id="path8"
+           style="fill:#a8eaf2;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 55.5,208.15 c -27.61,0 -50,-5.6 -50,-12.5 v 39.5 h 0.05 c 1.05,6.67 23.01,12 49.95,12 26.94,0 48.9,-5.33 49.95,-12 h 0.05 v -39.5 c 0,6.9 -22.39,12.5 -50,12.5 z"
+           id="path9"
+           style="fill:#90d8d0;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 105.45,195.15 c 0.03,0.17 0.05,0.33 0.05,0.5 v -0.5 z"
+           id="path10"
+           style="fill:#a8eaf2;fill-opacity:1" />
+      </g>
+      <text
+         class="cls-5"
+         transform="translate(44.41,116.88)"
+         id="text10"><tspan
+           x="0"
+           y="0"
+           id="tspan10">A1'</tspan></text>
+      <text
+         class="cls-5"
+         transform="translate(44.78,156.24)"
+         id="text11"><tspan
+           x="0"
+           y="0"
+           id="tspan11">A2</tspan></text>
+      <text
+         class="cls-5"
+         transform="translate(44.78,195.24)"
+         id="text12"><tspan
+           x="0"
+           y="0"
+           id="tspan12">A3</tspan></text>
+      <text
+         class="cls-5"
+         transform="translate(44.78,233.24)"
+         id="text13"><tspan
+           x="0"
+           y="0"
+           id="tspan13">A4</tspan></text>
+      <rect
+         class="cls-4"
+         x="23.490574"
+         y="60.140575"
+         width="64.101959"
+         height="21.018852"
+         id="rect13"
+         style="stroke-width:1.08006" />
+      <text
+         class="cls-5"
+         transform="scale(1.0006631,0.99933734)"
+         id="text14"
+         x="24.540253"
+         y="78.121536"
+         style="stroke-width:0.608527"><tspan
+           x="24.540253"
+           y="78.121536"
+           id="tspan14"
+           style="stroke-width:0.608527">DISK 1</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g29"
+     transform="translate(0,-10)">
+    <g
+       id="g28">
+      <g
+         id="g17"
+         style="fill:#3e4646;fill-opacity:1">
+        <path
+           class="cls-3"
+           d="m 154.44,116.97 v 0.5 c 0,-0.17 0.02,-0.33 0.05,-0.5 z"
+           id="path15"
+           style="fill:#3e4646;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 204.44,129.97 c -27.61,0 -50,-5.6 -50,-12.5 v 39.5 h 0.05 c 1.05,6.67 23.01,12 49.95,12 26.94,0 48.9,-5.33 49.95,-12 h 0.05 v -39.5 c 0,6.9 -22.39,12.5 -50,12.5 z"
+           id="path16"
+           style="fill:#90d8d0;fill-opacity:1"
+           sodipodi:nodetypes="scccscccs" />
+        <path
+           class="cls-3"
+           d="m 254.39,116.97 c 0.03,0.17 0.05,0.33 0.05,0.5 v -0.5 z"
+           id="path17"
+           style="fill:#3e4646;fill-opacity:1" />
+      </g>
+      <g
+         id="g18"
+         style="fill:#90d8d0;fill-opacity:1">
+        <path
+           class="cls-3"
+           d="m 154.44,77.97 v 40 h 0.05 c 1.05,6.67 23.01,12 49.95,12 26.94,0 48.9,-5.33 49.95,-12 h 0.05 v -40 z"
+           id="path18"
+           style="fill:#90d8d0;fill-opacity:1" />
+        <ellipse
+           class="cls-3"
+           cx="204.44"
+           cy="78.470001"
+           rx="50"
+           ry="12.5"
+           id="ellipse18"
+           style="fill:#90d8d0;fill-opacity:1" />
+      </g>
+      <g
+         id="g21"
+         style="fill:#3e4646;fill-opacity:1">
+        <path
+           class="cls-3"
+           d="m 154.44,155.97 v 0.5 c 0,-0.17 0.02,-0.33 0.05,-0.5 z"
+           id="path19"
+           style="fill:#3e4646;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 204.44,168.97 c -27.61,0 -50,-5.6 -50,-12.5 v 39.5 h 0.05 c 1.05,6.67 23.01,12 49.95,12 26.94,0 48.9,-5.33 49.95,-12 h 0.05 v -39.5 c 0,6.9 -22.39,12.5 -50,12.5 z"
+           id="path20"
+           style="fill:#90d8d0;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 254.39,155.97 c 0.03,0.17 0.05,0.33 0.05,0.5 v -0.5 z"
+           id="path21"
+           style="fill:#3e4646;fill-opacity:1" />
+      </g>
+      <g
+         id="g24"
+         style="fill:#3e4646;fill-opacity:1;stroke-width:1;stroke-dasharray:none">
+        <path
+           class="cls-3"
+           d="m 154.44,194.97 v 0.5 c 0,-0.17 0.02,-0.33 0.05,-0.5 z"
+           id="path22"
+           style="fill:#3e4646;fill-opacity:1;stroke-width:1;stroke-dasharray:none" />
+        <path
+           class="cls-3"
+           d="m 204.44,207.97 c -27.61,0 -50,-5.6 -50,-12.5 v 39.5 h 0.05 c 1.05,6.67 23.01,12 49.95,12 26.94,0 48.9,-5.33 49.95,-12 h 0.05 v -39.5 c 0,6.9 -22.39,12.5 -50,12.5 z"
+           id="path23"
+           style="fill:#90d8d0;fill-opacity:1;stroke-width:1;stroke-dasharray:none"
+           sodipodi:nodetypes="scccscccs" />
+        <path
+           class="cls-3"
+           d="m 254.39,194.97 c 0.03,0.17 0.05,0.33 0.05,0.5 v -0.5 z"
+           id="path24"
+           style="fill:#3e4646;fill-opacity:1;stroke-width:1;stroke-dasharray:none" />
+      </g>
+      <text
+         class="cls-5"
+         transform="translate(193.35,116.7)"
+         id="text24"><tspan
+           x="0"
+           y="0"
+           id="tspan24">A1</tspan></text>
+      <text
+         class="cls-5"
+         transform="translate(193.72,156.06)"
+         id="text25"><tspan
+           x="0"
+           y="0"
+           id="tspan25">A2</tspan></text>
+      <text
+         class="cls-5"
+         transform="translate(193.72,195.06)"
+         id="text26"><tspan
+           x="0"
+           y="0"
+           id="tspan26">A3</tspan></text>
+      <rect
+         class="cls-4"
+         x="172.38902"
+         y="60.572239"
+         width="64.101959"
+         height="21.018852"
+         id="rect13-2"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.08006;stroke-miterlimit:10;paint-order:normal;fill-opacity:1" />
+      <text
+         class="cls-5"
+         transform="scale(1.0006631,0.99933734)"
+         id="text14-9"
+         x="173.34003"
+         y="78.55349"
+         style="font-size:21px;font-family:MyriadPro-Regular, 'Myriad Pro';stroke-width:0.608527;paint-order:normal"><tspan
+           x="173.34003"
+           y="78.55349"
+           id="tspan14-3"
+           style="stroke-width:0.608527;paint-order:normal">DISK2</tspan></text>
+      <text
+         class="cls-5"
+         transform="translate(193.72,233.06)"
+         id="text27"><tspan
+           x="0"
+           y="0"
+           id="tspan27">A4</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g43">
+    <g
+       id="g42"
+       transform="translate(0,-10)">
+      <g
+         id="g31"
+         style="fill:#90d8d0;fill-opacity:1">
+        <path
+           class="cls-3"
+           d="m 303.44,116.97 v 0.5 c 0,-0.17 0.02,-0.33 0.05,-0.5 z"
+           id="path29"
+           style="fill:#90d8d0;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 353.44,129.97 c -27.61,0 -50,-5.6 -50,-12.5 v 39.5 h 0.05 c 1.05,6.67 23.01,12 49.95,12 26.94,0 48.9,-5.33 49.95,-12 h 0.05 v -39.5 c 0,6.9 -22.39,12.5 -50,12.5 z"
+           id="path30"
+           style="fill:#90d8d0;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 403.39,116.97 c 0.03,0.17 0.05,0.33 0.05,0.5 v -0.5 z"
+           id="path31"
+           style="fill:#90d8d0;fill-opacity:1" />
+      </g>
+      <g
+         id="g32"
+         style="fill:#90afd8;fill-opacity:1">
+        <path
+           class="cls-3"
+           d="m 303.44,77.97 v 40 h 0.05 c 1.05,6.67 23.01,12 49.95,12 26.94,0 48.9,-5.33 49.95,-12 h 0.05 v -40 z"
+           id="path32"
+           style="fill:#90afd8;fill-opacity:1" />
+        <ellipse
+           class="cls-3"
+           cx="353.44"
+           cy="78.470001"
+           rx="50"
+           ry="12.5"
+           id="ellipse32"
+           style="fill:#90afd8;fill-opacity:1" />
+      </g>
+      <g
+         id="g35"
+         style="fill:#90d8d0;fill-opacity:1">
+        <path
+           class="cls-3"
+           d="m 303.44,155.97 v 0.5 c 0,-0.17 0.02,-0.33 0.05,-0.5 z"
+           id="path33"
+           style="fill:#90d8d0;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 353.44,168.97 c -27.61,0 -50,-5.6 -50,-12.5 v 39.5 h 0.05 c 1.05,6.67 23.01,12 49.95,12 26.94,0 48.9,-5.33 49.95,-12 h 0.05 v -39.5 c 0,6.9 -22.39,12.5 -50,12.5 z"
+           id="path34"
+           style="fill:#90d8d0;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 403.39,155.97 c 0.03,0.17 0.05,0.33 0.05,0.5 v -0.5 z"
+           id="path35"
+           style="fill:#90d8d0;fill-opacity:1" />
+      </g>
+      <g
+         id="g38"
+         style="fill:#90d8d0;fill-opacity:1">
+        <path
+           class="cls-3"
+           d="m 303.44,194.97 v 0.5 c 0,-0.17 0.02,-0.33 0.05,-0.5 z"
+           id="path36"
+           style="fill:#90d8d0;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 353.44,207.97 c -27.61,0 -50,-5.6 -50,-12.5 v 39.5 h 0.05 c 1.05,6.67 23.01,12 49.95,12 26.94,0 48.9,-5.33 49.95,-12 h 0.05 v -39.5 c 0,6.9 -22.39,12.5 -50,12.5 z"
+           id="path37"
+           style="fill:#90d8d0;fill-opacity:1" />
+        <path
+           class="cls-3"
+           d="m 403.39,194.97 c 0.03,0.17 0.05,0.33 0.05,0.5 v -0.5 z"
+           id="path38"
+           style="fill:#90d8d0;fill-opacity:1" />
+      </g>
+      <text
+         class="cls-5"
+         transform="translate(342.35,116.7)"
+         id="text38"><tspan
+           x="0"
+           y="0"
+           id="tspan38">A1'</tspan></text>
+      <text
+         class="cls-5"
+         transform="translate(342.72,156.06)"
+         id="text39"><tspan
+           x="0"
+           y="0"
+           id="tspan39">A2</tspan></text>
+      <text
+         class="cls-5"
+         transform="translate(342.72,195.06)"
+         id="text40"><tspan
+           x="0"
+           y="0"
+           id="tspan40">A3</tspan></text>
+      <rect
+         class="cls-4"
+         x="320.89804"
+         y="60"
+         width="64.101959"
+         height="21.018852"
+         id="rect13-2-8"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.08006;stroke-miterlimit:10;paint-order:normal" />
+      <text
+         class="cls-5"
+         transform="scale(1.0006631,0.99933734)"
+         id="text14-9-4"
+         x="321.75064"
+         y="77.980873"
+         style="font-size:21px;font-family:MyriadPro-Regular, 'Myriad Pro';stroke-width:0.608527;paint-order:normal"><tspan
+           x="321.75064"
+           y="77.980873"
+           id="tspan14-3-5"
+           style="stroke-width:0.608527;paint-order:normal">DISK3</tspan></text>
+      <text
+         class="cls-5"
+         transform="translate(342.72,233.06)"
+         id="text41"><tspan
+           x="0"
+           y="0"
+           id="tspan41">A4</tspan></text>
+    </g>
+  </g>
+  <line
+     class="cls-2"
+     x1="56"
+     y1="50.650002"
+     x2="56"
+     y2="28.65"
+     id="line43"
+     style="stroke-width:1.04881" />
+  <line
+     class="cls-2"
+     x1="203.5"
+     y1="50.150002"
+     x2="203.5"
+     y2="28.65"
+     id="line44"
+     style="stroke-width:1.03682" />
+  <line
+     class="cls-2"
+     x1="353.5"
+     y1="50.150002"
+     x2="353.5"
+     y2="28.65"
+     id="line45"
+     style="stroke-width:1.03682" />
+  <line
+     class="cls-2"
+     x1="56"
+     y1="29.15"
+     x2="354"
+     y2="29.15"
+     id="line46" />
+  <text
+     class="cls-6"
+     transform="translate(165.67,25.11)"
+     id="text47"><tspan
+       class="cls-7"
+       x="0"
+       y="0"
+       id="tspan46">R</tspan><tspan
+       x="16.290001"
+       y="0"
+       id="tspan47">AID1</tspan></text>
+</svg>

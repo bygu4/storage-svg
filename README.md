@@ -66,6 +66,13 @@ Images are under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ![Image](compression/lz4_algo.svg)
 
+[compression/lz4_bformat.svg](compression/lz4_bformat.svg)
+
+![Image](compression/lz4_bformat.svg)
+
+[compression/lz4_comp.svg](compression/lz4_comp.svg)
+
+![Image](compression/lz4_comp.svg)
 
 [compression/vdo_compression_h.svg](compression/vdo_compression_h.svg)
 
